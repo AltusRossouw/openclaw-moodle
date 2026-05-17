@@ -24,10 +24,12 @@ mkdir -p ~/.openclaw/skills/moodle
 cp SKILL.md ~/.openclaw/skills/moodle/SKILL.md
 ```
 
-### Option B: ClawHub (if published)
+### Option B: ClawHub
+
+[![ClawHub](https://img.shields.io/badge/ClawHub-moodle-blue)](https://clawhub.ai/altusrossouw/moodle)
 
 ```bash
-openclaw skills install moodle
+clawhub install moodle
 ```
 
 ### Option C: Git clone
